@@ -1,0 +1,54 @@
+
+/* index css */
+.other{
+    margin-right: -40px;
+    margin-left: -40px;
+}
+.none{
+    color: white;
+}
+.none:hover{
+    color: yellow;
+}
+.change{
+    color: white;
+    background-color: thistle;
+}
+/* login page css */
+.unique{
+    margin-top: 50px;
+    width: 300px;
+    border: 1px solid black;
+}
+.setting1{
+    margin-left: -150px;
+}
+.setting2{
+    margin-left: -180px;
+}
+.color{
+    color: white;
+}
+/* create an account */
+fieldset{
+    width: 400px;
+    margin-top: 30px;
+}
+.form-control{
+    margin: 10px;
+}
+.space{
+    margin-top: 5px;
+    margin-left: 40px;
+    margin-right: 10px;
+}
+.bottom{
+    margin-top: 40px;
+}
+.new{
+    margin-left: -6px;
+}
+.new1{
+    margin-left: 5px;
+}
+
